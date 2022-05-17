@@ -1,6 +1,6 @@
 # spring-gumball ci/cd example
 
-### Lab Notes.
+### Lab Notes
 
 * https://github.com/nguyensjsu/cmpe172-gregory-chen/tree/main/labs/lab10
 
