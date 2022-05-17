@@ -1,3 +1,12 @@
-# spring-gumball
+# spring-gumball ci/cd example
 
-Ran into an issue where I could not build the gradle project due to my system using JDK 17 instead of 11. Resolved by following the steps from this reference article: https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/
+### This example demonstrates the following two GitHub Workflows.
+
+* https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
+
+* https://github.com/google-github-actions/setup-gcloud/tree/master/example-workflows/gke
+
+### Build Dependencies
+
+* Gradle 5.6
+* JDK 11
