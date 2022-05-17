@@ -1,5 +1,9 @@
 # spring-gumball ci/cd example
 
+### Lab Notes.
+
+* https://github.com/nguyensjsu/cmpe172-gregory-chen/tree/main/labs/lab10
+
 ### This example demonstrates the following two GitHub Workflows.
 
 * https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
